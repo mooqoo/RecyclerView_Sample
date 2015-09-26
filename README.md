@@ -4,6 +4,8 @@ This project explore the basic structure of RecyclerView and demonstrate the abi
 In this demo code, you can select different radio button to see the behavior of the different LayoutManager being used.
 By click on the item itself, it will display a toast message indicating that the item is pressed.
 
+![app layout](https://cloud.githubusercontent.com/assets/6467567/10116772/d6f66eb6-6471-11e5-967a-ce9107089ca7.png)
+
 This Sample Code includes:
 
  -   add `compile 'com.android.support:recyclerview-v7:21.0.0'` in **build.gradle** for backward compatibility 
@@ -12,7 +14,7 @@ This Sample Code includes:
  -   explore different **LayoutManager**'s behavior
  -   implement **onClickListener** inside **adapter's ViewHolder**
  
- 
+
 LayoutManager
 =============
 There are three types of LayoutManager:
